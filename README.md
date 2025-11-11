@@ -1,7 +1,5 @@
 # Analisador de Reviews da Steam com IA (Gemini)
 
-[![Feito no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)
-
 Este é um projeto prático para a disciplina de Processamento de Linguagem Natural (PLN). A ferramenta se conecta à API da Steam para buscar reviews de jogos, utiliza o **Google Gemini** (via LangChain) para realizar uma análise de texto detalhada e, em seguida, usa o modelo **TTS (Text-to-Speech) do Gemini** para gerar um áudio da review com base no sentimento detectado.
 
 ## ✨ Funcionalidades Principais
