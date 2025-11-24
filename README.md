@@ -2,6 +2,9 @@
 
 Este é um projeto prático para a disciplina de Processamento de Linguagem Natural (PLN). A ferramenta se conecta à API da Steam para buscar reviews de jogos, utiliza o **Google Gemini** (via LangChain) para realizar uma análise de texto detalhada e, em seguida, usa o modelo **TTS (Text-to-Speech) do Gemini** para gerar um áudio da review com base no sentimento detectado.
 
+Disponível em:
+https://colab.research.google.com/drive/1HfH4XTY8ubQlWI0DxkPu9-uo9sexCsZy#scrollTo=lmv3bsn6aA3v
+
 ## Funcionalidades Principais
 
 * **Coleta de Dados Reais:** Busca reviews de qualquer jogo da Steam através da API pública.
